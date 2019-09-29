@@ -1,6 +1,7 @@
 frontend/node_modules/
 chatroom-server/target/
 chatroom-server/src/test
+.DS_Store
 ### IntelliJ IDEA ###
 .idea
 *.iws

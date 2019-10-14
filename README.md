@@ -1,6 +1,6 @@
 # 在线聊天室 ChatRoom
+ ![](./Screenshot/ChatRoom_Banner.png)
 ChatRoom 是一个前后端分离的在线聊天室，项目采用 SpringBoot、Vue 开发。
-
 >这个项目的前身为本人在学习 SpringBoot 集成 WebSoket 过程中写的一个 Demo 。本着用[工匠精神](https://baike.baidu.com/item/%E5%B7%A5%E5%8C%A0%E7%B2%BE%E7%A5%9E/3993110#1 "工匠精神")做开发的理念，遂有了本项目。
 
 ## 开发环境
